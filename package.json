@@ -1,0 +1,24 @@
+{
+  "name": "moviemood",
+  "version": "1.0.0",
+  "description": "4to proyecto de Laboratoria usando Angular",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaizaCarolina17/MovieMood.git"
+  },
+  "keywords": [
+    "gata1988"
+  ],
+  "author": "raiza gatica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaizaCarolina17/MovieMood/issues"
+  },
+  "homepage": "https://github.com/RaizaCarolina17/MovieMood#readme"
+}
